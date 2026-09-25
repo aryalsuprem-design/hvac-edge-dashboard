@@ -1,0 +1,10 @@
+/build/*
+!/.gitkeep
+/.vscode/
+/.dist/
+*.user
+*.suo
+*.exe
+*.obj
+*.o
+*.pdb
